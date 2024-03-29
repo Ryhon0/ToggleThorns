@@ -1,0 +1,10 @@
+main: ${PACKAGE}.${NAME}
+name: ${NAME}
+version: "${VERSION}"
+api-version: "1.17"
+author: Ryhon
+description: Toggle Thorns
+commands:
+  togglethorns:
+    description: Toggle Thorns
+    aliases: [ tth ]
